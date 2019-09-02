@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: burlywood;
+}
+
+canvas {
+  margin: 20px;
+}
