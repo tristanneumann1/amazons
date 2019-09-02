@@ -227,9 +227,9 @@ class Fire {
 
 
 
-const width = 8;
+const width = 6;
 const cellWidth = 50;
-const height = 8;
+const height = 6;
 const cellHeight = 50;
 const order = ['W', 'B'];
 const startingPositions = [
